@@ -1,0 +1,39 @@
+{
+  "tabnine.experimentalAutoImports": true,
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.colorTheme": "Learn with Sumit - Blue Velvet",
+  "files.autoSave": "onFocusChange",
+  "editor.formatOnSave": true,
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "vs-kubernetes": {
+    "vs-kubernetes.minikube-path.mac": "/Users/rahul/.vs-kubernetes/tools/minikube/darwin-amd64/minikube",
+    "vscode-kubernetes.minikube-path.mac": "/Users/rahul/.vs-kubernetes/tools/minikube/darwin-amd64/minikube",
+    "vscode-kubernetes.helm-path.mac": "/Users/rahul/.vs-kubernetes/tools/helm/darwin-amd64/helm"
+  },
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "workbench.editorAssociations": {
+    "*.ipynb": "jupyter.notebook.ipynb"
+  },
+  "prettier.singleQuote": true,
+  "editor.tabSize": 2,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.wordWrap": "on",
+  "emmet.triggerExpansionOnTab": true,
+  "files.associations": {
+    "*html": "html",
+    ".env": "raw"
+  },
+  "workbench.colorCustomizations": {
+    "activityBar.activeBackground": "#423e90",
+    "activityBar.activeBorder": "#160a0a",
+    "activityBar.background": "#423e90",
+    "activityBar.foreground": "#e7e7e7",
+    "activityBar.inactiveForeground": "#e7e7e799",
+    "activityBarBadge.background": "#160a0a",
+    "activityBarBadge.foreground": "#e7e7e7",
+    "sash.hoverBorder": "#423e90"
+  },
+  "peacock.color": "#322f6c"
+}
